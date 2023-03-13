@@ -15,7 +15,7 @@
 .imputName {
   width: 150px;
   margin-left: 30px;
-  border: 2px solid rgb(0, 255, 115);
+  border: 2px solid rgb(46, 158, 173);
 
   border-radius: 4px;
 
@@ -39,10 +39,10 @@
   border-style: none;
 
   color: #fff;
-  background-color: cornflowerblue;
+  background-color: rgb(46, 158, 173);
   cursor: pointer;
 }
 
 .buttonSubmit:hover {
-  background-color: blue;
+  background-color: rgb(46, 158, 173);
 }
